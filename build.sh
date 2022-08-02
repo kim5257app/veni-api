@@ -1,1 +1,1 @@
-docker build --tag barun-msg-api:latest .
+docker build --tag veni-api:latest .
