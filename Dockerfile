@@ -1,4 +1,4 @@
-FROM        node:14.17.6
+FROM        node:16.16.0
 MAINTAINER  bsbc.app@gmail.com
 
 RUN apt-get update
